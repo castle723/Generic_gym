@@ -1,0 +1,1 @@
+Heard your advice about more css from my last website, decided to skip the react this time and focus on the html/css, hope you like it.
